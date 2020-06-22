@@ -18,4 +18,5 @@ public class AppLocalDb{
                     "dbFileName.db")
                     .fallbackToDestructiveMigration()
                     .build();
+
 }
