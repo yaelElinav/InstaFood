@@ -11,4 +11,8 @@ public class DishModel {
     public List<Dish> getAllDishes(){
         return null;
     }
+
+    public List<Dish> getAllByCook(String cookID){
+        return null;
+    }
 }
