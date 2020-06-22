@@ -1,12 +1,12 @@
 package com.example.instafood.model;
 
-public class Cook {
+public class Chef {
     String id;
     String name;
     String imgUrl;
 
 
-    public Cook(String id, String name, String imgUrl) {
+    public Chef(String id, String name, String imgUrl) {
         this.id = id;
         this.name = name;
         this.imgUrl = imgUrl;

@@ -1,6 +1,8 @@
-package com.example.instafood.model;
+package com.example.instafood;
 
 import androidx.lifecycle.ViewModel;
+
+import com.example.instafood.model.Dish;
 
 import java.util.LinkedList;
 import java.util.List;
